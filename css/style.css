@@ -2,3 +2,32 @@ body {
 	color: black;
 	font-family: 'Open Sans', sans-serif;
 }
+
+nav {
+	height: auto;
+	width: 30%;
+	margin: 0 0 5em 0;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	float: left;
+}
+
+ul a {
+	display: block;
+	text-align: center;
+	color: black;
+	font-weight: 600;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+img {
+	height: 20em;
+}
