@@ -158,18 +158,18 @@ a:link, a:visited {
 	color: black;
 }
 
-.first-section .phases {
+.phases {
 	width: 20vw;
 	float: left;
 	margin: 10em 0 9em 0;
 }
 
-.first-section .phrase {
+.phrase {
 	font-weight: bold;
 	font-style: italic;
 }
 
-.first-section .author {
+.author {
 	font-weight: 200;
 	margin: 1.25rem 0 6.25rem 0;
 }
@@ -225,7 +225,7 @@ a:link, a:visited {
 	margin: 0.625rem 1rem 0 0;
 }
 
-.third-section .title {
+.gallery .title {
 	margin-top: 4.688rem;
 }
 #words {
@@ -283,27 +283,27 @@ a:link, a:visited {
 .magazine .title {
 	font-size: 150px;
 	font-weight: 1001;
-	margin-bottom: 1.875rem;
+	margin-bottom: 3vw;
 }
 
 .magazine > p {
-	font-weight: 1001;
+	font-weight: 700;
 	font-size: 24px;
 	width: 55vw;
-	margin-left: 3.125rem;
+	margin-left: 2.6vw;
 	margin-right: 50vw;
-	margin-bottom: 1.25rem;
+	margin-bottom: 1vw;
 }
 
 .magazine-block-1 {
-	margin-left: 3.125rem;
-	width: 35.25rem;
-	height: 51.063rem;
+	margin-left: 3vw;
+	width: 29.5vw;
+	height: 42.5vw;
 }
 
 .magazine-block-1 img {
-	width: 35.25rem;
-	height: 44.063rem;
+	width: 29.5vw;
+	height: 36.75vw;
 	object-fit: contain;
 }
 
@@ -354,7 +354,7 @@ a:link, a:visited {
 }
 
 #fix {
-	margin-top: -36.25rem;
+	margin-top: -30.25vw;
 }
 
 #magazine-see-all{
