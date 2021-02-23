@@ -3,16 +3,21 @@ body {
 	font-family: 'Open Sans', sans-serif;
 }
 
-nav {
+header {
+	height: 100px;
+	position: relative;
+}
+header nav {
 	height: auto;
-	width: 30%;
+	width: 40%;
 	margin: 0 0 5em 0;
 }
 
-ul {
+header ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	list-style-position: inside;
 }
 
 li {
@@ -28,6 +33,13 @@ ul a {
 	text-decoration: none;
 }
 
-img {
+body img {
 	height: 20em;
+}
+
+.logo * {
+	margin-left: 50px;
+	margin-top: 15px;
+	width: 80px;
+	height: 71px;
 }
