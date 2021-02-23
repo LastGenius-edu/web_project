@@ -1,23 +1,26 @@
 body {
 	color: black;
 	font-family: 'Open Sans', sans-serif;
+	background: #f5f1ec;
 }
 
 header {
-	height: 100px;
-	position: relative;
+	margin-bottom: 5em;
+	height: 450px;
 }
 header nav {
-	height: auto;
-	width: 40%;
-	margin: 0 0 5em 0;
+	width: 39%;
+	margin: 0 0 65px 75px;
+	float: left;
+	/*position: sticky;*/
+	bottom: 0;
 }
 
-header ul {
+header .header-ul {
 	list-style-type: none;
-	margin: 0;
+	margin: 15px 50px 65px;
 	padding: 0;
-	list-style-position: inside;
+	float: right;
 }
 
 li {
@@ -33,13 +36,52 @@ ul a {
 	text-decoration: none;
 }
 
-body img {
-	height: 20em;
+main img {
+	height: 10em;
 }
 
 .logo * {
-	margin-left: 50px;
-	margin-top: 15px;
+	margin: 15px 15px 15px 50px;
 	width: 80px;
 	height: 71px;
+	float: left;
+	display: block;
+}
+
+header h2 {
+	font-weight: 450;
+	margin-left: 50px;
+	margin-bottom: 25px;
+	font-size: 85px;
+	width: 70%;
+	bottom: 0;
+}
+
+header h3 {
+	font-weight: bold;
+	bottom: 0;
+	margin-left: 50px;
+	margin-bottom: 4em;
+	display: block;
+}
+
+#header-link-1 {
+	font-style: italic;
+	bottom: 0;
+	margin-left: 50px;
+}
+
+#header-link-2 {
+	font-style: italic;
+	bottom: 0;
+	margin-left: 2.5em;
+}
+
+.regular-painting-1 {
+
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: black;
 }
