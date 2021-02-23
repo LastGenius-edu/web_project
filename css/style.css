@@ -6,11 +6,11 @@ body {
 
 header {
 	margin-bottom: 5em;
-	height: 450px;
+	height: 28.125rem;
 }
 header nav {
 	width: 39%;
-	margin: 0 0 65px 75px;
+	margin: 0 0 4.063rem 4.688rem;
 	float: left;
 	/*position: sticky;*/
 	bottom: 0;
@@ -18,7 +18,7 @@ header nav {
 
 header .header-ul {
 	list-style-type: none;
-	margin: 15px 50px 65px;
+	margin: 0.938rem 3.125rem 4.063rem;
 	padding: 0;
 	float: right;
 }
@@ -32,22 +32,22 @@ ul a {
 	text-align: center;
 	color: black;
 	font-weight: 600;
-	padding: 14px 16px;
+	padding: 0.875rem 1rem;
 	text-decoration: none;
 }
 
 .logo * {
-	margin: 15px 15px 15px 50px;
-	width: 80px;
-	height: 71px;
+	margin: 1rem 1rem 1rem 3.125rem;
+	width: 5rem;
+	height: 4.438rem;
 	float: left;
 	display: block;
 }
 
 header h2 {
 	font-weight: 450;
-	margin-left: 50px;
-	margin-bottom: 25px;
+	margin-left: 3.125rem;
+	margin-bottom: 1.563rem;
 	font-size: 85px;
 	width: 50%;
 	bottom: 0;
@@ -56,7 +56,7 @@ header h2 {
 header h3 {
 	font-weight: bold;
 	bottom: 0;
-	margin-left: 50px;
+	margin-left: 3.125rem;
 	margin-bottom: 4em;
 	display: block;
 }
@@ -64,7 +64,7 @@ header h3 {
 #header-link-1 {
 	font-style: italic;
 	bottom: 0;
-	margin-left: 50px;
+	margin-left: 3.125rem;
 }
 
 #header-link-2 {
@@ -76,26 +76,26 @@ header h3 {
 .regular-painting-1 {
 	display: inline-block;
 	width: 30vw;
-	margin: 25px 25px 0 50px;
-	height: 750px;
+	margin: 1.563rem 1.563rem 0 3.125rem;
+	height: 46.875rem;
 	float: left;
 }
 
 .regular-painting-1 img {
-	height: 660px;
+	height: 41.25rem;
 	object-fit: contain;
 }
 
 .regular-painting-1 h2 {
-	margin: 15px 0 0 15px;
+	margin: 1rem 0 0 1rem;
 	text-align: left;
-	font-size: 36px;
+	font-size: 2.25rem;
 }
 
 .regular-painting-1 p {
-	margin: 15px 0 0 15px;
+	margin: 1rem 0 0 1rem;
 	text-align: left;
-	font-size: 16px;
+	font-size: 1rem;
 	font-style: italic;
 	text-decoration: underline;
 }
@@ -103,52 +103,52 @@ header h3 {
 .regular-painting-2 {
 	display: inline-block;
 	width: 30vw;
-	margin: 25px 25px 25px 0;
-	height: 750px;
+	margin: 1.563rem 1.563rem 1.563rem 0;
+	height: 46.875rem
 }
 
 .regular-painting-2 img {
-	height: 660px;
+	height: 41.25rem;
 	object-fit: contain;
 }
 
 .regular-painting-2 h2 {
-	margin: 15px 0 0 15px;
+	margin: 1rem 0 0 1rem;
 	text-align: left;
-	font-size: 36px;
+	font-size: 2.25rem;
 }
 
 .regular-painting-2 p {
-	margin: 15px 0 0 15px;
+	margin: 1rem 0 0 1rem;
 	text-align: left;
-	font-size: 16px;
+	font-size: 1rem;
 	font-style: italic;
 	text-decoration: underline;
 }
 
 .irregular-painting {
-	margin-right: 50px;
-	height: 1200px;
+	margin-right: 3.125rem;
+	height: 75rem;
 	float: right;
-	margin-top: -415px;
+	margin-top: -25.938rem;
 }
 
 .irregular-painting img {
 	object-fit: contain;
-	height: 1100px;
+	height: 68.75rem;
 	overflow: visible;
 }
 
 .irregular-painting h2 {
-	margin: 15px 0 0 15px;
+	margin: 1rem 0 0 1rem;
 	text-align: left;
-	font-size: 36px;
+	font-size: 2.25rem;
 }
 
 .irregular-painting p {
-	margin: 15px 0 0 15px;
+	margin: 1rem 0 0 1rem;
 	text-align: left;
-	font-size: 16px;
+	font-size: 1rem;
 	font-style: italic;
 	text-decoration: underline;
 }
@@ -171,21 +171,21 @@ a:link, a:visited {
 
 .first-section .author {
 	font-weight: 200;
-	margin: 20px 0 100px 0;
+	margin: 1.25rem 0 6.25rem 0;
 }
 
 .title	{
 	display: inline-block;
 	width: 100vw;
-	margin: 0 0 30px 50px;
-	font-size: 36px;
+	margin: 0 0 1.875rem 3.125rem;
+	font-size: 2.25rem;
 	font-weight: 600;
 }
 
 .recently-block {
 	width: content-box;
 	height: 17vw;
-	margin-left: 50px;
+	margin-left: 3.125rem;
 }
 
 .recently-block img {
@@ -196,24 +196,24 @@ a:link, a:visited {
 
 .recently-block h2 {
 	width: 70%;
-	margin: 20px 0 0 13px;
+	margin: 1.25rem 0 0 1rem;
 	text-align: left;
-	font-size: 12px;
+	font-size: 0.75rem;
 	font-weight: 1000;
 }
 
 .recently-block p {
 	width: 70%;
-	padding: 3px 0 0 13px;
+	padding: 0.25rem 0 0 0.75rem;
 	text-align: left;
-	font-size: 12px;
+	font-size: 0.75rem;
 	font-style: italic;
 }
 
 .fav-button {
-	padding-left: 29px;
-	margin-top: 10px;
-	margin-left: 50px;
+	padding-left: 1.813rem;
+	margin-top: 0.625rem;
+	margin-left: 3.125rem;
 	border: none;
 	background-color: #f5f1ec;
 }
@@ -222,39 +222,39 @@ a:link, a:visited {
 	float: right;
 	background-color: #f5f1ec;
 	border: none;
-	margin: 10px 16px 0 0;
+	margin: 0.625rem 1rem 0 0;
 }
 
 .third-section .title {
-	margin-top: 75px;
+	margin-top: 4.688rem;
 }
 #words {
-	font-size: 14px;
-	margin-left: 50px;
+	font-size: 0.875rem;
+	margin-left: 3.125rem;
 	width: 40vw;
 	margin-right: 70vw;
 	font-weight: 500;
-	margin-bottom: 25px;
+	margin-bottom: 1.563rem;
 }
 
 .gallery-block {
-	width: 529px;
-	height: 721px;
-	margin-left: 50px;
-	margin-bottom: 50px;
+	width: 33.063rem;
+	height: 45.063rem;
+	margin-left: 3.125rem;
+	margin-bottom: 3.125rem;
 }
 
 .gallery-block img {
-	width: 529px;
-	height: 661px;
+	width: 33.063rem;
+	height: 41.313rem;
 	object-position: center;
 	object-fit: contain;
 }
 
 .gallery-block h2 {
 	width: 70%;
-	padding: 16px 16px 0 16px;
-	margin: 0 0 0 13px;
+	padding: 1rem 1rem 0 1rem;
+	margin: 0 0 0 0.813rem;
 	text-align: left;
 	font-size: 12px;
 	font-weight: 1000;
@@ -262,8 +262,8 @@ a:link, a:visited {
 
 .gallery-block p {
 	width: 70%;
-	margin-left: 13px;
-	padding: 3px 16px 16px 16px;
+	margin-left: 0.813rem;
+	padding: 0.188rem 1rem 1rem 1rem;
 	text-align: left;
 	font-size: 12px;
 	font-style: italic;
@@ -273,8 +273,8 @@ a:link, a:visited {
 	display: inline-block;
 	margin-right: 50vw;
 	float: left;
-	margin-left: 50px;
-	margin-bottom: 70px;
+	margin-left: 3.125rem;
+	margin-bottom: 4.375rem;
 	font-style: italic;
 	text-decoration: underline;
 	font-weight: bold;
@@ -283,42 +283,42 @@ a:link, a:visited {
 .magazine .title {
 	font-size: 150px;
 	font-weight: 1001;
-	margin-bottom: 30px;
+	margin-bottom: 1.875rem;
 }
 
 .magazine > p {
 	font-weight: 1001;
 	font-size: 24px;
 	width: 55vw;
-	margin-left: 50px;
+	margin-left: 3.125rem;
 	margin-right: 50vw;
-	margin-bottom: 20px;
+	margin-bottom: 1.25rem;
 }
 
 .magazine-block-1 {
-	margin-left: 50px;
-	width: 564px;
-	height: 817px;
+	margin-left: 3.125rem;
+	width: 35.25rem;
+	height: 51.063rem;
 }
 
 .magazine-block-1 img {
-	width: 564px;
-	height: 705px;
+	width: 35.25rem;
+	height: 44.063rem;
 	object-fit: contain;
 }
 
 .magazine-block-1 h2 {
-	margin: 24px 0;
+	margin: 1.5rem 0;
 	font-weight: 800;
-	padding-left: 19px;
+	padding-left: 1.188rem;
 	text-align: left;
 	font-size: 24px;
 }
 
 .magazine-block-1 p{
-	padding-top: 24px;
+	padding-top: 1.5rem;
 	text-align: left;
-	padding-left: 19px;
+	padding-left: 1.188rem;
 	text-decoration: underline;
 	font-style: italic;
 	font-size: 16px;
@@ -326,40 +326,40 @@ a:link, a:visited {
 
 .magazine-block-2 {
 	float: right;
-	width: 1000px;
-	height: 1390px;
+	width: 62.5rem;
+	height: 86.875rem;
 }
 
 .magazine-block-2 img {
 	object-fit: contain;
-	width: 1000px;
-	height: 1278px;
+	width: 62.5rem;
+	height: 79.875rem;
 }
 
 .magazine-block-2 h2 {
-	margin: 24px 0 48px 75px;
+	margin: 1.5rem 0 3rem 4.688rem;
 	font-weight: 800;
-	padding-left: 19px;
+	padding-left: 1.188rem;
 	text-align: left;
 	font-size: 24px;
 }
 
 .magazine-block-2 p{
-	margin-left: 75px;
+	margin-left: 4.688rem;
 	text-align: left;
-	padding-left: 19px;
+	padding-left: 1.188rem;
 	text-decoration: underline;
 	font-style: italic;
 	font-size: 16px;
 }
 
 #fix {
-	margin-top: -580px;
+	margin-top: -36.25rem;
 }
 
 #magazine-see-all{
 	display: inline-block;
-	margin:-20px 50px 40px 80vw;
+	margin:-1.25rem 3.125rem 2.5rem 80vw;
 	text-decoration: underline;
 	font-style: italic;
 	float: right;
@@ -368,7 +368,7 @@ a:link, a:visited {
 
 .creator {
 	width: 27.5vw;
-	margin-left: 50px;
+	margin-left: 3.125rem;
 	height: 37.5vw;
 }
 
@@ -380,13 +380,13 @@ a:link, a:visited {
 
 .creator h2 {
 	text-align: left;
-	margin: 20px 0 0 20px;
+	margin: 1.5rem 0 0 1.5rem;
 	font-size: 24px;
 }
 
 #all-creators {
 	float: left;
-	margin: 30px 50vw 70px 50px;
+	margin: 3rem 50vw 5rem 3.5rem;
 	font-style: italic;
 	text-decoration: underline;
 	font-weight: bold;
@@ -395,4 +395,6 @@ a:link, a:visited {
 #disclaimer {
 	float: left;
 	font-size: 12px;
+	margin-left: 4rem;
+	width: 40vw;
 }
