@@ -10,15 +10,22 @@ header {
 }
 header nav {
 	width: 39%;
-	margin: 0 0 4.063rem 4.688rem;
+	margin: 3.6rem 0 0.5rem 4.688rem;
 	float: left;
-	/*position: sticky;*/
 	bottom: 0;
 }
 
-header .header-ul {
+.header-ul input{
+	margin-top: 0.75rem;
+}
+
+.header-ul select{
+	margin-top: 0.75rem;
+}
+
+.header-ul {
 	list-style-type: none;
-	margin: 0.938rem 3.125rem 4.063rem;
+	margin: 3.6rem 3.125rem 4.063rem;
 	padding: 0;
 	float: right;
 }
@@ -62,6 +69,9 @@ header h3 {
 }
 
 #header-link-1 {
+	background-color: black;
+	color: #f5f1ec;
+	padding: 1rem;
 	font-style: italic;
 	bottom: 0;
 	margin-left: 3.125rem;
@@ -222,7 +232,7 @@ a:link, a:visited {
 	float: right;
 	background-color: #f5f1ec;
 	border: none;
-	margin: 0.625rem 1rem 0 0;
+	margin: 0.75rem 1rem 0 0;
 }
 
 .gallery .title {
@@ -232,7 +242,7 @@ a:link, a:visited {
 	font-size: 0.875rem;
 	margin-left: 3.125rem;
 	width: 40vw;
-	margin-right: 70vw;
+	margin-right: 50vw;
 	font-weight: 500;
 	margin-bottom: 1.563rem;
 }
@@ -396,5 +406,17 @@ a:link, a:visited {
 	float: left;
 	font-size: 12px;
 	margin-left: 4rem;
+	margin-right: 57vw;
+	margin-bottom: 4vw;
 	width: 40vw;
+}
+
+#main-footer-ul {
+	margin-left: 4rem;
+	float: left;
+}
+
+
+footer ul li ul li{
+	float: none;
 }
